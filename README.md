@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaatPTM
 - 👀 I’m interested in Scientific Computation and Physics.
-- 🌱 I’m currently learning MATLAB and Python
+- 🌱 I’m currently learning MATLAB and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at paritosh.malik@students.iiserpune.ac.in
 
